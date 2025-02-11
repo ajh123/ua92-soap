@@ -9,3 +9,5 @@ It is not finished but it contains:
 - nearly finished footer
 
 It wearn't finished due to time.
+
+I would say it is half complete.
